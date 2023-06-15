@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PriyankaIjare
-- 👀 I’m interested in Data Analysis.
-- 🌱 I’m currently learning Data Associate Course.
+- 👀 I’m interested in Software Development, Software Testing and Data Analysis
+- 🌱 I did Data Associate and Software Development Course
 - 📫 How to reach me Linkedin Id https://www.linkedin.com/in/priyanka-ijare-932612206/ , Email Id ijarepriyanka@gmail.com .
 
 <!---
